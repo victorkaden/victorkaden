@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Victor Kaden!
 
-I'm a **23-year-old German-Brazilian professional ballet dancer** 🕺 who transitioned to the world of **Data Analytics**. I have worked and studied in **four countries**—🇩🇪 Germany, 🇷🇴 Romania, 🇧🇷 Brazil, and 🇺🇸 the United States—while passionately pursuing my past career goals in ballet. Now, my focus has shifted, and I’ve found a new passion: **giving data-driven, insightful recommendations** and working with data to solve real-world problems.
+I'm a **23-year-old German-Brazilian professional ballet dancer** 🕺 who transitioned to the world of **Data Analytics**. I have worked and studied in **four countries** Germany, Romania, Brazil, and the United States—while passionately pursuing my past career goals in ballet. Now, my focus has shifted, and I’ve found a new passion: **giving data-driven, insightful recommendations** and working with data to solve real-world problems.
 
 
 
